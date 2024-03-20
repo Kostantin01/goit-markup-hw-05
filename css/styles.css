@@ -779,7 +779,7 @@ h1,h2,h3,h4,p,ul{
 
 
 .modal-imput:checked+.modal-label>.span-class {
-    border-color: #4D5AE5;
+    fill: #4D5AE5;
     border: none;
 }
 
