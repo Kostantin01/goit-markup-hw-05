@@ -672,9 +672,13 @@ h1,h2,h3,h4,p,ul{
     margin-bottom: 8px;
 }
 
-.modal-imput-coment-wrap{
+
+
+
+.coment-imput-wrap{
     margin-bottom: 16px;
 }
+
 
 .modal-label {
     font-size: 12px;
