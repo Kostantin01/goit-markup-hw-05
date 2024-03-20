@@ -779,10 +779,8 @@ h1,h2,h3,h4,p,ul{
 
 
 .modal-imput:checked+.modal-label>.span-class {
-    background-color: #404BBF;
+    border-color: #4D5AE5;
     border: none;
-    fill: #FFFFFF;
-    border-color: #404BBF;
 }
 
 .model-icon{
@@ -790,10 +788,10 @@ h1,h2,h3,h4,p,ul{
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
-    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.model-icon:focus > .modal-imput{
+.modal-imput:focus {
     fill: #4D5AE5;
 }
 
@@ -830,6 +828,7 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
+    color: #8e8f99;
 }
 
 .span-privacy{
