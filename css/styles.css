@@ -715,9 +715,11 @@ h1,h2,h3,h4,p,ul{
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-imput :focus {
+.model-icon:focus > .modal-imput{
     fill: #4D5AE5;
 }
+
+
 
 
 
