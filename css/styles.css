@@ -778,7 +778,7 @@ h1,h2,h3,h4,p,ul{
 }
 
 
-.modal-imput:checked+.modal-label>.span-class {
+.modal-imput:checked + .modal-label > .span-class {
     fill: #4D5AE5;
     border: none;
 }
@@ -792,7 +792,7 @@ h1,h2,h3,h4,p,ul{
 }
 
 .modal-imput:focus {
-    fill: #4D5AE5;
+    border-color: #4D5AE5;
 }
 
 
