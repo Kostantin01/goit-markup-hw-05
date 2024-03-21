@@ -797,7 +797,9 @@ h1,h2,h3,h4,p,ul{
 
 
 
-
+.modal-imput:focus{
+    border-color: #4D5AE5;
+}
 
 
 .modal-text{
