@@ -607,12 +607,14 @@ h1,h2,h3,h4,p,ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
+    margin-left: 80px;
 }
 
 
 .footer-form{
     display: flex;
     gap: 24px;
+    margin-left: 80px;
 }
 
 .footer-input{
@@ -650,6 +652,9 @@ h1,h2,h3,h4,p,ul{
 
 .button-footer-icon{
     margin-left: 16px;
+    width: 24px;
+    height: 24px;
+    fill: #f4f4fd;
 }
 
 
